@@ -40,7 +40,20 @@
 #### Replication across multiple availability zones
 #### Global tables can be replicated across multiple regions
 
-
+### Test [Limits](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html) in DynamoDB 
+#### Read/Write Capacity Mode and Throughput
+#### Tables
+#### Secondary Indexes
+#### Partition Keys and Sort Keys
+#### Naming Rules
+#### Data Types
+#### Items
+#### Attributes
+#### Expression Parameters
+#### DynamoDB Transactions
+#### DynamoDB Streams
+#### DynamoDB Accelerator (DAX)
+#### API-Specific Limits
 
 
 
@@ -48,6 +61,7 @@
 
 ### References
 * https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
+* https://aws.amazon.com/dynamodb/resources/
 * https://www.infoq.com/articles/demystifying-dynamodb-streams
 
 
